@@ -1,0 +1,30 @@
+body {
+    background-color:hsl(212, 45%, 89%);
+}
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 375px;
+    height: 575px;
+    border: 20px solid #fff;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+img {
+    border-radius: 15px;
+    height: 375px;
+    width: 375px;
+    padding-bottom: 5px;
+}
+h3 {
+    color:hsl(218, 44%, 22%) ;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Oxygen';
+    font-family: 'Oxygen Mono', monospace;
+}
+p {    
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+}
